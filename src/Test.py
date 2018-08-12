@@ -26,3 +26,5 @@ for date, label in crisis_data:
 ax.set_xlim(['1/1/2007', '1/1/2011'])
 ax.set_ylim([600, 1800])
 ax.set_title('Important dates in the 2008-2009 financial crisis')
+ax.set_title('Important dates in the 2008-2009 financial crisis')
+ax.set_title('Important dates in the 2008-2009 financial crisis')
